@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .btn {
+    @apply py-4 px-8 rounded-full text-base lg:text-lg xl:text-xl hover:shadow-lg hover:shadow-black/20 transition duration-200;
+  }
+
+  .btn-white {
+    @apply bg-white text-black hover:text-primary;
+  }
+
+  .btn-black {
+    @apply bg-black text-white;
+  }
+}
