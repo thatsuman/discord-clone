@@ -1,6 +1,6 @@
 # Clone of Discord Official Home Page
 
-Live:
+Live: https://discord-suman.netlify.app/
 
 ## Tech stack
 
