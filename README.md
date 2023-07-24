@@ -1,11 +1,13 @@
-# Parcel + Tailwind CSS Starter Template
+# Clone of Discord Official Home Page
 
-Scaffold a new project with bundler [Parcel.js](https://parceljs.org/) and [Tailwind CSS](https://tailwindcss.com/) preconfigured with ease.
+Live:
 
-## Configured with
+## Tech stack
 
-- Parcel.js
+- HTML5
 - TailwindCSS
+- JavaScript
+- Parcel.js
 
 ## Installation
 
